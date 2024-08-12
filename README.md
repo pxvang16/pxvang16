@@ -11,7 +11,8 @@
 - <b>Auto Dealership Project</b>
   - [Design and Implemented Network for Auto Dealership](https://github.com/pxvang16/AutoDealership-Network)
 
-- 
+- <b>Primitive Appareal Project</b>
+  - [Design and Implemented Network for Custom Appareal Shop](https://github.com/pxvang16/AutoDealership-Network)
 
 <h2> 🤳 Connect with me:</h2>
 
