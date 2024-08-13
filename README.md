@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pao! Dedicated Network and Cybersecurity Analyst</h1>
+<h1>Hi, I'm Pao! Dedicated Network and Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
